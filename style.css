@@ -1,0 +1,28 @@
+.main{
+    background-color: black;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.btn{
+    margin: 5px;
+    width: 30px;
+    padding: 3px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+}
+.screen{
+    padding: 6px;
+    width: 154px ;
+    margin-bottom: 5px;
+}
+.btne{
+    background-color: orange;
+   
+}
+.btnc{
+    background-color: red;
+   
+}
